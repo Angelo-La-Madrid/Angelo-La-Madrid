@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my profile 👋
 
 <!--
 **Angelo-La-Madrid/Angelo-La-Madrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![icon-gif-24](https://user-images.githubusercontent.com/101282128/161403271-ca4cfaad-2756-4e37-b96c-fbe9de857694.gif)
