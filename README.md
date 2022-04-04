@@ -15,12 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![black-hole-icegif-7](https://user-images.githubusercontent.com/101282128/161404011-aea81a7f-c5d0-4e00-8182-723f4bd6c059.gif)
 
-
-
-
-![a953ed50a2f883d7a88aae6600664394](https://user-images.githubusercontent.com/101282128/161403979-c8547a7a-87cf-4aa7-bb93-dfa0c3b8de5e.gif)
 
 
 
